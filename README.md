@@ -1,5 +1,5 @@
 # Loan Recovery Analysis
-A Statistical analysis to understand how much a bank must spend on a non-performing loan without incurring losses.
+A Statistical analysis to understand how much a bank must spend on recovery of a non-performing loan without incurring losses.
 
 After a debt has been legally declared "uncollectable" by a bank, the account is considered to be "charged-off." But that doesn't mean the bank simply walks away from the debt. They still want to collect some of the money they are owed. 
 
